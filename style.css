@@ -1,0 +1,27 @@
+html{
+  width: 100%;
+}
+body{
+  width: 100%;
+  background-image: url(background4.jpg);
+}
+header{
+  background-color: #333;
+}
+nav{
+  background-color: #333;
+}
+.row{
+  width: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 0 8px 0;
+    background-color: #333;
+    text-align: center;
+}
+li {
+    display: inline;
+    padding: 0 10px 0 0;
+}
