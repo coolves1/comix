@@ -10,6 +10,13 @@ header{
 }
 nav{
   background-color: #333;
+  padding: 8px 0 8px 0;
+}
+h4{
+  width: 100px;
+}
+h5{
+  width: 100px;
 }
 .row{
   width: 100%;
@@ -17,11 +24,22 @@ nav{
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 8px 0 8px 0;
-    background-color: #333;
+    padding: 0px 0 0px 0;
     text-align: center;
 }
 li {
     display: inline;
     padding: 0 10px 0 0;
+}
+.sh{
+  text-align: left;
+}
+#mvc{
+  padding: 15px 0 160px 85px;
+}
+#lcs{
+  padding: 0 0 0 85px;
+}
+#navbar{
+  padding: 0 0 0 0;
 }
