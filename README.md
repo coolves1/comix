@@ -5,3 +5,4 @@
 3. GitHub - version control and file storage
 4. GitHub pages - hosting
 5. Atom - code editor
+6. waffle.io - task management
