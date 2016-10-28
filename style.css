@@ -11,12 +11,21 @@ header{
 nav{
   background-color: #333;
   padding: 8px 0 8px 0;
+  color: white;
+}
+.navmenu{
+  color: white;
 }
 h4{
   width: 100px;
 }
 h5{
   width: 100px;
+}
+footer{
+  background-color: #333;
+  width: 100%;
+  height: 50px;
 }
 .row{
   width: 100%;
@@ -39,7 +48,7 @@ li {
   padding: 15px 0 160px 85px;
 }
 #lcs{
-  padding: 0 0 0 85px;
+  padding: 0 0 80px 85px;
 }
 #navbar{
   padding: 0 0 0 0;
@@ -81,4 +90,9 @@ h1{
 }
 #plus2{
   text-align: left
+}
+#copyright{
+  text-align: center;
+  color: white;
+  padding-top: 10px;
 }
