@@ -47,3 +47,38 @@ li {
 .#{
   float: right;
 }
+#sellinfo{
+  text-align: right;
+  padding: 0 0 15px 0;
+}
+.bh{
+  text-align: center;
+  padding: 150px 0 0 0;
+}
+h1{
+  text-align: center;
+}
+.higher{
+  padding: 0 0 20px 0;
+}
+.im{
+  padding: 0 0 40px 0;
+}
+.ff{
+  padding: 0 0 30px 0;
+}
+.sm{
+  padding: 0 0 100 0;
+}
+.cm{
+  padding: 0 0 30 0;
+}
+.hk{
+  padding: 0 0 0 0;
+}
+#plus{
+ text-align: right;
+}
+#plus2{
+  text-align: left
+}
